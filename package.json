@@ -1,0 +1,30 @@
+{
+  "name": "iasasite",
+  "version": "1.0.0",
+  "description": "IASA site for second education",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Artui/iasasite.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Artui/iasasite/issues"
+  },
+  "homepage": "https://github.com/Artui/iasasite#readme",
+  "devDependencies": {
+    "gulp": "^3.9.1"
+  },
+  "dependencies": {
+    "bootstrap.native": "^1.0.51",
+    "gulp-clean-css": "^2.0.13",
+    "gulp-concat-css": "^2.3.0",
+    "gulp-less": "^3.1.0",
+    "gulp-sourcemaps": "^2.2.0",
+    "smoothscroll": "^0.2.2"
+  }
+}
